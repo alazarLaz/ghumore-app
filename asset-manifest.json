@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ghumore-app/static/css/main.42d667bd.css",
+    "main.js": "/ghumore-app/static/js/main.65223d03.js",
+    "static/media/one-of-top-banner@3x.png": "/ghumore-app/static/media/one-of-top-banner@3x.f23f56e5aed28c9c69bb.png",
+    "static/media/frame-19@3x.png": "/ghumore-app/static/media/frame-19@3x.0dad2e299845a0dfd3b2.png",
+    "static/media/frame-21@3x.png": "/ghumore-app/static/media/frame-21@3x.784de93e6b8c5959fac7.png",
+    "static/media/frame-17@3x.png": "/ghumore-app/static/media/frame-17@3x.5c8691674aafed564dd4.png",
+    "static/media/frame-20@3x.png": "/ghumore-app/static/media/frame-20@3x.91d41cc5519013d136ad.png",
+    "static/media/sign-up-section@3x.png": "/ghumore-app/static/media/sign-up-section@3x.fe5ccc01a9d736007d0b.png",
+    "static/media/frame-16@3x.png": "/ghumore-app/static/media/frame-16@3x.40ebc8466498c93f9cef.png",
+    "static/media/hyd@3x.png": "/ghumore-app/static/media/hyd@3x.403e092170b11d540356.png",
+    "static/media/hyd1@3x.png": "/ghumore-app/static/media/hyd1@3x.1ade7fba671fae3bcdc2.png",
+    "static/media/maa@3x.png": "/ghumore-app/static/media/maa@3x.bc13cef3beee21c8b671.png",
+    "static/media/maa1@3x.png": "/ghumore-app/static/media/maa1@3x.46960e48120d30c8d356.png",
+    "static/media/bom1@3x.png": "/ghumore-app/static/media/bom1@3x.377304c790f4e47fdc45.png",
+    "static/media/port-blair1@3x.png": "/ghumore-app/static/media/port-blair1@3x.a2d5623c8f1971910f55.png",
+    "static/media/bom@3x.png": "/ghumore-app/static/media/bom@3x.65189f212089c8f0305f.png",
+    "static/media/port-blair@3x.png": "/ghumore-app/static/media/port-blair@3x.2fe34bd4a40033d529f3.png",
+    "static/media/del1@3x.png": "/ghumore-app/static/media/del1@3x.d49efa9af1be9d919bf6.png",
+    "static/media/del@3x.png": "/ghumore-app/static/media/del@3x.d3d36f6042055d3ceb18.png",
+    "static/media/frame-18@3x.png": "/ghumore-app/static/media/frame-18@3x.d6fafc7778dfbce584b0.png",
+    "index.html": "/ghumore-app/index.html",
+    "main.42d667bd.css.map": "/ghumore-app/static/css/main.42d667bd.css.map",
+    "main.65223d03.js.map": "/ghumore-app/static/js/main.65223d03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42d667bd.css",
+    "static/js/main.65223d03.js"
+  ]
+}
